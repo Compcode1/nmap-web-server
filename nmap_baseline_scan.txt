@@ -1,0 +1,10 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-03-10 08:33 PDT
+Nmap scan report for Stevens-Laptop.attlocal.net (192.168.1.148)
+Host is up (0.000062s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+5000/tcp open  rtsp    AirTunes rtspd 775.3.1
+7000/tcp open  rtsp    AirTunes rtspd 775.3.1
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.21 seconds
